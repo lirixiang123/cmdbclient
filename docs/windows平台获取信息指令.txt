@@ -1,0 +1,15 @@
+Windows系统下使用wmic命令查看硬件信息
+
+1、查询网卡信息：wmic nicconfig get macaddress
+
+2、查询cpu序列号：wmic cpu get processorid
+
+3、查询主板序列号：wmic baseboard get serialnumber
+
+4、查询BIOS序列号：wmic bios get serialnumber
+
+
+补充：在有些电脑上查询结果未正常显示，而是出现“To be filled by OEM”，可能是系统出问题了。
+————————————————
+版权声明：本文为CSDN博主「一棵随风倒的小小草」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/hnllc2012/article/details/48733383

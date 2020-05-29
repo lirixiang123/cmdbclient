@@ -1,0 +1,26 @@
+2019-11-05 17:19:25,517 - error_log - ERROR -log:  [PC-201709170950][disk],数据获取失败
+2019-11-05 17:21:07,438 - error_log - ERROR -log:  [PC-201709170950][disk],数据获取失败
+2019-11-05 17:21:07,438 - error_log - ERROR -log:  [PC-201709170950][memory],内存数据获取失败
+2019-11-05 17:21:40,635 - error_log - ERROR -log:  [PC-201709170950][disk],数据获取失败
+2019-11-05 17:21:40,635 - error_log - ERROR -log:  [PC-201709170950][memory],内存数据获取失败
+2019-11-05 17:21:40,635 - error_log - ERROR -log:  [PC-201709170950][nic],网卡数据获取失败
+2019-11-06 11:24:27,633 - error_log - ERROR -log:  [PC-201709170950][disk],数据获取失败
+2019-11-06 11:24:27,634 - error_log - ERROR -log:  [PC-201709170950][memory],内存数据获取失败
+2019-11-06 11:24:27,635 - error_log - ERROR -log:  [PC-201709170950][nic],网卡数据获取失败
+2019-11-06 11:41:25,895 - error_log - ERROR -log:  [PC-201709170950][disk],数据获取失败
+2019-11-06 11:41:25,895 - error_log - ERROR -log:  [PC-201709170950][memory],内存数据获取失败
+2019-11-06 11:41:25,895 - error_log - ERROR -log:  [PC-201709170950][nic],网卡数据获取失败
+2019-11-06 15:54:02,567 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-06 15:57:05,769 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-06 15:57:56,813 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-06 16:10:43,535 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-06 16:14:25,621 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-06 16:14:49,274 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-06 16:21:41,446 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-06 16:21:55,955 - error_log - ERROR -log:  [teach.baidu.com][disk],name 'os' is not defined
+2019-11-15 10:07:40,808 - error_log - ERROR -log:  [PC-201709170950][disk],数据获取失败
+2019-11-15 10:07:40,810 - error_log - ERROR -log:  [PC-201709170950][memory],内存数据获取失败
+2019-11-15 10:07:40,811 - error_log - ERROR -log:  [PC-201709170950][nic],网卡数据获取失败
+2020-03-07 14:28:36,176 - error_log - ERROR -log:  [PC-201709170950][disk],数据获取失败
+2020-03-07 14:28:36,180 - error_log - ERROR -log:  [PC-201709170950][memory],内存数据获取失败
+2020-03-07 14:28:36,181 - error_log - ERROR -log:  [PC-201709170950][nic],网卡数据获取失败
